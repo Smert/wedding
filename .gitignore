@@ -1,0 +1,5 @@
+.DS_Store
+screenshots/
+uploads/pasted-*.png
+uploads/Screen Recording*.mp4
+*.log
